@@ -7,7 +7,6 @@
 
 I'm a final-year Computer Engineering student at **Sinhgad Academy of Engineering**, building hands-on expertise across the data science pipeline — from **data collection and cleaning** to **machine learning, RAG, and Data Science**.
 
-- Currently interning as a **Data Science Intern at CodeAlpha**, working on Python, Scikit-learn, and ML modeling
 - Currently deepening my skills in **SQL**, advanced Python libraries, and **Retrieval-Augmented Generation (RAG)** systems
 - Built 6+ end-to-end projects spanning **web scraping, ML regression, social network analysis, and an AI-powered RAG course assistant**
 - Serving as **Vice President, ACES** (Association of Computer Engineering Students), leading technical and student engagement initiatives
