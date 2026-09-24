@@ -84,16 +84,6 @@ I'm a final-year Computer Engineering student at **Sinhgad Academy of Engineerin
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyushPandey995&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=AyushPandey995&theme=one_dark_pro&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushPandey995&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-
 ### 🌐 Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayushpandey0712)
