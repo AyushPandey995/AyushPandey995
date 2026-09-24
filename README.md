@@ -83,6 +83,7 @@ I'm a final-year Computer Engineering student at **Sinhgad Academy of Engineerin
 ![Jupyter Lab](https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
+
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyushPandey995&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)
